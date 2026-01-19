@@ -1,0 +1,13 @@
+# Optional dependencies for SAM segmentation
+opencv-python>=4.8,<5
+segment-anything==1.0
+
+# Pick ONE of the following install strategies for torch/torchvision:
+# - If you have CUDA and want GPU, install from the official PyTorch selector.
+# - If you want CPU-only, also use the official selector to avoid huge CUDA wheels.
+#
+# We intentionally do not pin torch/torchvision here because the correct wheel
+# depends on CUDA/CPU and your platform.
+torch
+torchvision
+
