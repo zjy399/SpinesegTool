@@ -1,4 +1,4 @@
-# Sepine segmentation Tool (SegTool)
+# Spine Segmentation Tool (SegTool)
 ⭐️ ⭐️ ⭐️This software can load data, manually select bounding boxes, segment data, and save the segmentation results.
 ![Alt text](pics/picture1.png)
 ![Alt text](pics/picture2.png)
