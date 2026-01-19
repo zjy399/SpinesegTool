@@ -37,7 +37,7 @@ Using a batch script (Recommended)
 
 2. **Run the packaging script**:
 
-``cmd
+```cmd
 
 build_windows.bat
 
